@@ -1,0 +1,2 @@
+# MCVantage HKDL Project Resource Pack
+Minecraft resource pack for the MCVantage HKDL Project. See the server at MCVantage.net to join us. All legally assignable rights are reserved by the creator MrFrank2716.
