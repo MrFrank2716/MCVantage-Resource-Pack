@@ -1,0 +1,36 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/diamond_hoe"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1 },"model": "item/_custom/mysticmanor/ridevehicles/hhfinished"},
+    {"predicate": {"custom_model_data": 2 },"model": "item/_custom/mysticmanor/ridevehicles/door1"},    
+    {"predicate": {"custom_model_data": 3 },"model": "item/_custom/mysticmanor/ridevehicles/door2"},
+    {"predicate": {"custom_model_data": 4 },"model": "item/_custom/mysticmanor/ridevehicles/lapbar"},
+    {"predicate": {"custom_model_data": 5 },"model": "item/_custom/mysticmanor/ridevehicles/puck"},
+    {"predicate": {"custom_model_data": 6 },"model": "item/_custom/ironman/models/case"},
+    {"predicate": {"custom_model_data": 7 },"model": "item/_custom/ironman/models/glasses"},
+    {"predicate": {"custom_model_data": 8 },"model": "item/_custom/ironman/models/glassesbench"},
+    {"predicate": {"custom_model_data": 9 },"model": "item/_custom/ironman/models/hongkongmodle"},
+    {"predicate": {"custom_model_data": 10 },"model": "item/_custom/tomorrowland/pushmodel/push"},
+    {"predicate": {"custom_model_data": 11 },"model": "item/_custom/trashcans/fantasytrash"},
+    {"predicate": {"custom_model_data": 12 },"model": "item/_custom/trashcans/mainstreettrash"},
+    {"predicate": {"custom_model_data": 13 },"model": "item/_custom/trashcans/mmtrashcans"},
+    {"predicate": {"custom_model_data": 14 },"model": "item/_custom/trashcans/spacetrash"},
+    {"predicate": {"custom_model_data": 15 },"model": "item/_custom/turnstiles/turnstiles"},
+    {"predicate": {"custom_model_data": 17 },"model": "item/_custom/benches/mainstreetbench"},
+    {"predicate": {"custom_model_data": 18 },"model": "item/_custom/tomorrowland/restaurant/sldisplay"},
+    {"predicate": {"custom_model_data": 19 },"model": "item/_custom/tomorrowland/orbitron/orbitronred"},
+    {"predicate": {"custom_model_data": 20 },"model": "item/_custom/tomorrowland/orbitron/orbitronarm"},
+    {"predicate": {"custom_model_data": 21 },"model": "item/_custom/wreath"},
+    {"predicate": {"custom_model_data": 22 },"model": "item/_custom/mhtc"},
+	{"predicate": {"custom_model_data": 23 },"model": "item/_custom/float"},
+	{"predicate": {"custom_model_data": 24 },"model": "item/_custom/pooh"},
+	{"predicate": {"custom_model_data": 25 },"model": "item/_custom/pooh_handle"},
+	{"predicate": {"custom_model_data": 26 },"model": "item/_custom/train"},
+	{"predicate": {"custom_model_data": 27 },"model": "item/_custom/light"},
+	{"predicate": {"custom_model_data": 29 },"model": "item/_custom/piano"}
+	]
+}
+

@@ -1,0 +1,40 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/iron_hoe"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1 },"model": "item/pins/antmanpin"},
+    {"predicate": {"custom_model_data": 2 },"model": "item/pins/cmd"},    
+    {"predicate": {"custom_model_data": 3 },"model": "item/pins/dumbopin"},
+    {"predicate": {"custom_model_data": 4 },"model": "item/pins/hsmpin"},
+    {"predicate": {"custom_model_data": 5 },"model": "item/pins/ironmanpin"},
+    {"predicate": {"custom_model_data": 6 },"model": "item/pins/mickeyoldpin"},
+    {"predicate": {"custom_model_data": 7 },"model": "item/pins/mickeypin"},
+    {"predicate": {"custom_model_data": 8 },"model": "item/pins/minniepin"},
+    {"predicate": {"custom_model_data": 9 },"model": "item/pins/mysticmanorpin"},
+    {"predicate": {"custom_model_data": 10 },"model": "item/pins/orbitronpin"},
+    {"predicate": {"custom_model_data": 11 },"model": "item/pins/phillarmagicpin"},
+    {"predicate": {"custom_model_data": 12 },"model": "item/pins/smallworldpin"},
+    {"predicate": {"custom_model_data": 13 },"model": "item/pins/stitchpin"},
+    {"predicate": {"custom_model_data": 14 },"model": "item/pins/teacupspin"},
+    {"predicate": {"custom_model_data": 15 },"model": "item/pins/teampin"},
+    {"predicate": {"custom_model_data": 16 },"model": "item/pins/shopicon"},
+    {"predicate": {"custom_model_data": 17 },"model": "item/pins/pressedpennies/hkdl"},
+    {"predicate": {"custom_model_data": 18 },"model": "item/pins/pressedpennies/duffel"},
+    {"predicate": {"custom_model_data": 19 },"model": "item/_custom/masksign"},
+	{"predicate": {"custom_model_data": 20 },"model": "item/_custom/hatssign"},
+	{"predicate": {"custom_model_data": 21 },"model": "item/_custom/ridessign"},
+	{"predicate": {"custom_model_data": 22 },"model": "item/_custom/toyssign"},
+	{"predicate": {"custom_model_data": 23 },"model": "item/_custom/slineone"},
+	{"predicate": {"custom_model_data": 24 },"model": "item/_custom/guiplayermenu/logo"},
+	{"predicate": {"custom_model_data": 25 },"model": "item/_custom/guiplayermenu/gear"},
+	{"predicate": {"custom_model_data": 26 },"model": "item/_custom/guiplayermenu/upgrade"},
+	{"predicate": {"custom_model_data": 27 },"model": "item/_custom/guiplayermenu/quests"},
+	{"predicate": {"custom_model_data": 28 },"model": "item/_custom/guiplayermenu/guide"},
+	{"predicate": {"custom_model_data": 29 },"model": "item/_custom/guiplayermenu/mainstreetm"},
+	{"predicate": {"custom_model_data": 30 },"model": "item/_custom/guiplayermenu/adventurem"},
+	{"predicate": {"custom_model_data": 31 },"model": "item/_custom/guiplayermenu/fanticym"},
+	{"predicate": {"custom_model_data": 32 },"model": "item/_custom/guiplayermenu/tomarrowm"}
+	]
+}

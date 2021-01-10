@@ -1,0 +1,30 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/diamond_hoe"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1 },"model": "item/_custom/corona/mask"},
+    {"predicate": {"custom_model_data": 2 },"model": "item/_custom/corona/aladin/aladin"},
+    {"predicate": {"custom_model_data": 3 },"model": "item/_custom/corona/dumbo/dumbo"},
+    {"predicate": {"custom_model_data": 4 },"model": "item/_custom/corona/hkdl/hkdl"},
+    {"predicate": {"custom_model_data": 5 },"model": "item/_custom/corona/hyperspace/hsm"},
+    {"predicate": {"custom_model_data": 6 },"model": "item/_custom/corona/ironman/ironman"},
+    {"predicate": {"custom_model_data": 7 },"model": "item/_custom/corona/map/map"},
+    {"predicate": {"custom_model_data": 8 },"model": "item/_custom/corona/peterpan/peterpan"},
+    {"predicate": {"custom_model_data": 9 },"model": "item/_custom/corona/stitch/stitch"},
+    {"predicate": {"custom_model_data": 10 },"model": "item/_custom/corona/splash/splash"},
+	{"predicate": {"custom_model_data": 12 },"model": "item/_custom/buzz"},
+	{"predicate": {"custom_model_data": 13 },"model": "item/_custom/mickey_ears"},
+	{"predicate": {"custom_model_data": 14 },"model": "item/_custom/pride_ears"},
+	{"predicate": {"custom_model_data": 15 },"model": "item/_custom/minnie_ears"},
+	{"predicate": {"custom_model_data": 16 },"model": "item/_custom/woody"},
+	{"predicate": {"custom_model_data": 17 },"model": "item/_custom/woody_ears"},
+	{"predicate": {"custom_model_data": 18 },"model": "item/_custom/mickey_wand"},
+	{"predicate": {"custom_model_data": 19 },"model": "item/_custom/tto_ears"},
+	{"predicate": {"custom_model_data": 20 },"model": "item/_custom/pooh_ears"},
+	{"predicate": {"custom_model_data": 21 },"model": "item/_custom/seagles"},
+	{"predicate": {"custom_model_data": 22 },"model": "item/_custom/corona/newm/newy"}
+	]
+}
+

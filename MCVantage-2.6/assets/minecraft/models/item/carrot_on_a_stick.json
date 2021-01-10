@@ -1,0 +1,43 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1 },"model": "item/_custom/lightsabers/holders/one_one"},
+    {"predicate": {"custom_model_data": 2 },"model": "item/_custom/lightsabers/holders/one_two"},    
+    {"predicate": {"custom_model_data": 3 },"model": "item/_custom/lightsabers/holders/one_three"},
+    {"predicate": {"custom_model_data": 4 },"model": "item/_custom/lightsabers/holders/one_four"},
+    {"predicate": {"custom_model_data": 5 },"model": "item/_custom/lightsabers/holders/two_one"},
+    {"predicate": {"custom_model_data": 6 },"model": "item/_custom/lightsabers/holders/two_two"},
+    {"predicate": {"custom_model_data": 7 },"model": "item/_custom/lightsabers/holders/two_three"},
+    {"predicate": {"custom_model_data": 8 },"model": "item/_custom/lightsabers/holders/two_four"},
+    {"predicate": {"custom_model_data": 9 },"model": "item/_custom/lightsabers/holders/three_one"},
+    {"predicate": {"custom_model_data": 10 },"model": "item/_custom/lightsabers/holders/three_two"},
+    {"predicate": {"custom_model_data": 11 },"model": "item/_custom/lightsabers/holders/three_three"},
+    {"predicate": {"custom_model_data": 12 },"model": "item/_custom/lightsabers/holders/three_four"},
+    {"predicate": {"custom_model_data": 13 },"model": "item/_custom/lightsabers/holders/four_one"},
+    {"predicate": {"custom_model_data": 14 },"model": "item/_custom/lightsabers/holders/four_two"},
+    {"predicate": {"custom_model_data": 15 },"model": "item/_custom/lightsabers/holders/four_three"},
+    {"predicate": {"custom_model_data": 17 },"model": "item/_custom/lightsabers/holders/four_four"},
+    {"predicate": {"custom_model_data": 18 },"model": "item/_custom/lightsabers/holders/hilt_one"},
+    {"predicate": {"custom_model_data": 19 },"model": "item/_custom/lightsabers/holders/hilt_two"},
+    {"predicate": {"custom_model_data": 20 },"model": "item/_custom/lightsabers/holders/hilt_three"},
+    {"predicate": {"custom_model_data": 21 },"model": "item/_custom/lightsabers/holders/hilt_four"},
+    {"predicate": {"custom_model_data": 22 },"model": "item/_custom/lightsabers/holders/endpiece_one"},
+    {"predicate": {"custom_model_data": 23 },"model": "item/_custom/lightsabers/holders/endpiece_two"},
+    {"predicate": {"custom_model_data": 24 },"model": "item/_custom/lightsabers/holders/endpiece_three"},
+    {"predicate": {"custom_model_data": 25 },"model": "item/_custom/lightsabers/holders/endpiece_four"},
+    {"predicate": {"custom_model_data": 26 },"model": "item/_custom/lightsabers/sabers/bluesaber/bluesb"},
+    {"predicate": {"custom_model_data": 27 },"model": "item/_custom/lightsabers/sabers/purplesaber/purplesb"},
+    {"predicate": {"custom_model_data": 28 },"model": "item/_custom/lightsabers/sabers/redsaber/redsb"},
+    {"predicate": {"custom_model_data": 29 },"model": "item/_custom/lightsabers/sabers/whitesaber/whitesb"},
+    {"predicate": {"custom_model_data": 30 },"model": "item/_custom/lightsabers/sabers/crystals/bluecrystal"},
+    {"predicate": {"custom_model_data": 31 },"model": "item/_custom/lightsabers/sabers/crystals/purplecrystal"},
+    {"predicate": {"custom_model_data": 32 },"model": "item/_custom/lightsabers/sabers/crystals/redcrystal"},
+    {"predicate": {"custom_model_data": 33 },"model": "item/_custom/lightsabers/sabers/crystals/whitecrystal"},
+	{"predicate": {"custom_model_data": 34 },"model": "item/_custom/lightsabers/sabers/crystals/blackcrystal"},
+    {"predicate": {"custom_model_data": 35 },"model": "item/_custom/lightsabers/sabers/crystals/yellowcrystal"}
+	]
+}
+

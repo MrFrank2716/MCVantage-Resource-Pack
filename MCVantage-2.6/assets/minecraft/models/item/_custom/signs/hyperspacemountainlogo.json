@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/signs/hyperspacemountainlogo/hyperspacemountainlogo",
+		"particle": "custom/signs/hyperspacemountainlogo/hyperspacemountainlogo"
+	},
+	"elements": [
+		{
+			"from": [-15.5, -0.5, 7.5],
+			"to": [32, 32, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.5, 15.5, 14.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#missing"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 1], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"rotation": [0, 24, 0],
+			"translation": [-16.25, -19.5, -2],
+			"scale": [1.9, 1.9, 1.9]
+		}
+	}
+}

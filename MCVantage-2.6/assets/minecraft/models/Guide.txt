@@ -1,0 +1,4 @@
+||MODELS||
+Diamond_hoe  =  Ride vehicles and display dioramas with trashcans
+Iron_hoe = Trading Pins
+Golden_pickaxe = Train cart models

@@ -1,0 +1,4 @@
+Ride models are in diamond_hoe and dedicated folders
+Pins are in iron_hoe and the dedicated folder
+Signs for shops are in diamond_pickaxe and their dedicated folder
+All textures are in their defined places

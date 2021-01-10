@@ -1,0 +1,6 @@
+{
+    "parent": "item/nubx/traincarts_carriage_base",
+    "textures": {
+        "main": "items/nubx/traincarts_carriage_red_full"
+    }
+}

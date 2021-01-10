@@ -1,0 +1,15 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/diamond_pickaxe"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1 },"model": "item/_custom/signs/starlinerdiner_photoop"},
+    {"predicate": {"custom_model_data": 2 },"model": "item/_custom/signs/starlinerdiner_sign"},    
+    {"predicate": {"custom_model_data": 3 },"model": "item/_custom/signs/starwars_sign_uno"},
+    {"predicate": {"custom_model_data": 4 },"model": "item/_custom/signs/starwars_sign_dos"},
+    {"predicate": {"custom_model_data": 5 },"model": "item/_custom/signs/cometcafe"},
+    {"predicate": {"custom_model_data": 6 },"model": "item/_custom/signs/hyperspacemountainlogo"}
+	]
+}
+

@@ -1,0 +1,7 @@
+{
+    "parent": "item/maxi/coaster_cart_base",
+	"credit": "Made with heart by Max_I",
+    "textures": {
+        "main": "items/maxi/concrete_red"
+    }
+}

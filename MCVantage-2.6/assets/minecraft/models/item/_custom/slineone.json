@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/corona/smenu",
+		"particle": "custom/corona/smenu"
+	},
+	"elements": [
+		{
+			"from": [0, -16, 10],
+			"to": [32, 8, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [23, -8, 18]},
+			"faces": {
+				"north": {"uv": [0, 0.06, 16, 16], "texture": "#0"},
+				"east": {"uv": [5.9, 2.7, 6.9, 10.7], "texture": "#0"},
+				"south": {"uv": [2.4, 4.86, 6.96, 8.46], "texture": "#0"},
+				"west": {"uv": [4.66, 7.04, 5.66, 10.6], "texture": "#0"},
+				"up": {"uv": [1.76, 5.8, 6.62, 6.8], "texture": "#0"},
+				"down": {"uv": [2.26, 5.46, 9.92, 6.46], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [18, -180, 0],
+			"translation": [32.5, 41, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

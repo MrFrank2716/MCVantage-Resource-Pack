@@ -1,0 +1,107 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "custom/lightsabers/bluesaber/blue",
+		"particle": "custom/lightsabers/redsaber/red"
+	},
+	"elements": [
+		{
+			"name": "octagon",
+			"from": [9.59289, 9.4, 7.5],
+			"to": [10.00711, 28.7, 8.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.8, 9.9, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#2"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.59289, 9.4, 7.5],
+			"to": [10.00711, 28.5, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.8, 9.9, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#2"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.3, 9.4, 7.79289],
+			"to": [10.3, 28.7, 8.20711],
+			"rotation": {"angle": 45, "axis": "y", "origin": [9.8, 9.9, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#2"}
+			}
+		},
+		{
+			"name": "octagon",
+			"from": [9.3, 9.4, 7.79289],
+			"to": [10.3, 28.5, 8.20711],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9.8, 9.9, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"east": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"west": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"up": {"uv": [0, 0, 1, 1], "texture": "#2"},
+				"down": {"uv": [0, 0, 1, 1], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 1.5, -0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-13.75, 1.5, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-14, -16, 0],
+			"translation": [0, 2.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-14, 0, 0],
+			"translation": [-17.5, 2.5, 0.75]
+		},
+		"ground": {
+			"translation": [0, 3, 0]
+		},
+		"gui": {
+			"rotation": [42, 0, -34],
+			"translation": [-1, 3.5, 0],
+			"scale": [1.60156, 1.79688, 1]
+		},
+		"head": {
+			"rotation": [24, 0, 0],
+			"translation": [-9.25, -22.25, 0.75]
+		},
+		"fixed": {
+			"rotation": [89.5, 0, 0],
+			"translation": [-6.75, -1.75, -40.25],
+			"scale": [4, 4, 4]
+		}
+	},
+	"groups": [
+		{
+			"name": "saber",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

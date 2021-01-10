@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/corona/hats_sign",
+		"particle": "custom/corona/hats_sign"
+	},
+	"elements": [
+		{
+			"from": [-15, 0, 0],
+			"to": [25, 8, 1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 15.97381], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 1], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [18, -180, 0],
+			"translation": [-6.75, 10.75, 0],
+			"scale": [2.23047, 2.23047, 1]
+		}
+	}
+}
